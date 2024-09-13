@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+   "title":"The Perfect US",
+   "author":"Durjoy Datta",
+   "Price":200,
+   "category":"Romance",
+   "description":"This story is about 2 persons dev and his wife",
+   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMYAlUDQT2Y4KsgrFMzNnh3n5Tl4-VIr2Mw&s"
+}
+,
+{
+    "id":2,
+    "title":"The Perfect US",
+    "author":"Durjoy Datta",
+    "Price":200,
+    "category":"Romance",
+    "description":"This story is about 2 persons dev and his wife",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMYAlUDQT2Y4KsgrFMzNnh3n5Tl4-VIr2Mw&s"
+ }
+ ,
+ {
+    "id":3,
+    "title":"The Perfect US",
+    "author":"Durjoy Datta",
+    "Price":200,
+    "category":"Romance",
+    "description":"This story is about 2 persons dev and his wife",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMYAlUDQT2Y4KsgrFMzNnh3n5Tl4-VIr2Mw&s"
+ }
+]

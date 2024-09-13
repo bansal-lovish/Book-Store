@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '~@fluentui/react/dist/css/fabric.min.css';
+:root{
+  --main-color-red--:#c90404;
+  --white-color--:#fff;
+  --red-light: #FCEEF1;
+  --red-button-shadow--:4px 4px 15px 1px rgba(191, 0, 0, 0.33);
+  --white-button-shadow--:-1px 1px 24px 0px rgba(0, 0, 0, 0.08);
+  --chips-color--:#2B2D42;
+  --bg-light-gray--:#fbfbfb;
+}
+body {
+  font-family: "Mulish", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: block;
+height: 100vh;
+ 
+ 
+}
